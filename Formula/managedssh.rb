@@ -1,8 +1,8 @@
 class Managedssh < Formula
   desc "Terminal-first SSH connection manager with encrypted credential storage"
   homepage "https://github.com/mylovelytools/managedssh"
-  url "https://github.com/mylovelytools/managedssh/archive/refs/tags/v1.2.0.tar.gz"
-  sha256 "023d730c8a8d18a241823b50f4621b839fe7453475addb9ebb207104146cba6d"
+  url "https://github.com/mylovelytools/managedssh/archive/refs/tags/v1.2.1.tar.gz"
+  sha256 "bded94815a69d4ff4dc3fe85d5e81272f78abcfa60e7054f8097b19cb601799c"
   license "AGPL-3.0-or-later"
 
   depends_on "go" => :build
